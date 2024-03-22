@@ -1,0 +1,58 @@
+
+A
+!
+__dummy"
+__dummy_idJ
+feast_demo
+´ ñ¯—ÿº´ ñ¯—ÿº
+?
+
+driver"	driver_idJ
+feast_demo
+´ ñ¯ğå„»´ ñ¯ğå„»1"$8ffbe25c-0cda-4eae-8361-d7fc2b235fb0*§ñ¯ğÿ™¹2˜
+Ü
+driver_hourly_stats
+feast_demodriver"
+	conv_rate"
+acc_rate"(
+avg_daily_trips"Average daily trips*
+teamdriver_performance2€ç„:µevent_timestamp*createdZFD~/pycharm_projects/feast_demo/feature_repo/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_source@b
+	driver_id7
+·¦ñ¯ø™ÙÃ¦ñ¯À¸Äg
+Ã¿ì ¸¸‘JÓÂñ¯ğ»ôG2Í
+‘
+driver_hourly_stats_fresh
+feast_demodriver"
+	conv_rate"
+acc_rate"
+avg_daily_trips*
+teamdriver_performance2€ç„:µevent_timestamp*createdZFD~/pycharm_projects/feast_demo/feature_repo/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_source@JÁ	Šfeast.data_source.PushSource¢driver_stats_push_sourceÒevent_timestamp*createdZFD~/pycharm_projects/feast_demo/feature_repo/data/driver_stats.parquet¢driver_hourly_stats_sourceb
+	driver_id7
+·¦ñ¯øêÓÙÃ¦ñ¯ÀÆ¡
+Ã¿ì °è—hÓÂñ¯ğ»ôG:œ
+~
+driver_activity_v1
+feast_demo\
+driver_hourly_stats
+	conv_rate
+acc_rate(
+avg_daily_trips"Average daily trips
+ï£ñ¯àÂİaï£ñ¯àÂİa:
+o
+driver_activity_v2
+feast_demoM
+driver_hourly_stats_fresh
+	conv_rate
+acc_rate
+avg_daily_trips
+ï£ñ¯ĞÙåaï£ñ¯ĞÙåaRĞ
+¨
+,feast.infra.online_stores.sqlite.SqliteTable"x
+P/home/grazianomita/pycharm_projects/feast_demo/feature_repo/data/online_store.db$feast_demo_driver_hourly_stats_fresh
+¢
+,feast.infra.online_stores.sqlite.SqliteTable"r
+P/home/grazianomita/pycharm_projects/feast_demo/feature_repo/data/online_store.dbfeast_demo_driver_hourly_statsbÂevent_timestamp*createdZFD~/pycharm_projects/feast_demo/feature_repo/data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢driver_hourly_stats_sourceª
+feast_demobÎ	Šfeast.data_source.PushSource¢driver_stats_push_sourceª
+feast_demoÒevent_timestamp*createdZFD~/pycharm_projects/feast_demo/feature_repo/data/driver_stats.parquet¢driver_hourly_stats_sourcez2
+
+feast_demo$f3c8a584-96cb-425c-8ab1-0fdba74bffcd
